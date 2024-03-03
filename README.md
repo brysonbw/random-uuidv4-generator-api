@@ -11,9 +11,7 @@ cd random-uuidv4-generator-api
 
 #### Create .env
 ```
-# Create .env and paste variable
-cp .env.example .env
-
+// place variable within file
 PORT=<PORT_NUMBER>
 ```
 
